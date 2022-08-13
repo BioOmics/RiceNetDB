@@ -5,4 +5,4 @@ RiceNetDB is a genome-scale comprehensive regulatory database on Oryza sativa. I
 
 
 ## 2. Landscape for RiceNetDB
-[Landscape for RiceNetDB](https://github.com/chaohaoyu/RiceNetDB/blob/main/RiceNetDB.png)
+![Landscape for RiceNetDB](https://github.com/chaohaoyu/RiceNetDB/blob/main/RiceNetDB.png)
